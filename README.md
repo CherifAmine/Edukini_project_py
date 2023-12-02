@@ -1,4 +1,4 @@
-# Edukini_project_py
+# Project_py
 
 # Année 2020-2021 :
 # # Développement d’une application web en langage python/flask :
